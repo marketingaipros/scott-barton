@@ -273,10 +273,26 @@ ul {
 
 .hero-title {
     color: var(--white);
-    font-size: 3rem;
-    font-weight: 900;
-    margin-bottom: var(--spacing-md);
+    margin-bottom: var(--spacing-sm);
     line-height: 1.1;
+}
+
+.hero-title-main {
+    display: block;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hero-title-sub {
+    color: var(--accent-gold);
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: var(--spacing-md);
+    line-height: 1.3;
+    font-family: var(--font-body);
 }
 
 .hero-subtitle {
@@ -1227,8 +1243,12 @@ ul {
         grid-template-columns: 1fr;
     }
     
-    .hero-title {
-        font-size: 2.25rem;
+    .hero-title-main {
+        font-size: 2.5rem;
+    }
+    
+    .hero-title-sub {
+        font-size: 1.25rem;
     }
     
     .hero-image {
@@ -1296,8 +1316,12 @@ ul {
         font-size: 2rem;
     }
     
-    .hero-title {
-        font-size: 1.875rem;
+    .hero-title-main {
+        font-size: 2rem;
+    }
+    
+    .hero-title-sub {
+        font-size: 1.125rem;
     }
     
     .hero-cta {
@@ -1337,6 +1361,14 @@ ul {
     
     .btn-large {
         padding: 1rem 1.5rem;
+        font-size: 1rem;
+    }
+    
+    .hero-title-main {
+        font-size: 1.75rem;
+    }
+    
+    .hero-title-sub {
         font-size: 1rem;
     }
 }
