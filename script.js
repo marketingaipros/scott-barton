@@ -124,7 +124,7 @@ if (contactForm) {
         console.log('Form submitted with data:', data);
         
         // Show success message
-        alert('Thank you for your consultation request! Scott Barton will contact you within 24 hours. For urgent matters, please call (502) 555-1234 immediately.');
+        alert('Thank you for your consultation request! Scott Barton will contact you within 24 hours. For urgent matters, please call (502) 589-6190 immediately.');
         
         // Reset form
         contactForm.reset();
@@ -284,7 +284,7 @@ if (testimonialCards.length > 0) {
 
 console.log('%c🏛️ Barton Law Office - Criminal Defense', 'font-size: 20px; font-weight: bold; color: #1a3a5c;');
 console.log('%c23 Years of Fighting for Your Freedom', 'font-size: 14px; color: #8b2635;');
-console.log('%cCall (502) 555-1234 for a free consultation', 'font-size: 12px; color: #666;');
+console.log('%cCall (502) 589-6190 for a free consultation', 'font-size: 12px; color: #666;');
 
 // ==========================================
 // ACCESSIBILITY ENHANCEMENTS

@@ -131,7 +131,7 @@ This is a **fully functional demo website** for Scott J. Barton's criminal defen
 
 ### Critical Updates Needed
 1. **Replace Phone Number**
-   - Find: `(502) 555-1234`
+   - Find: `(502) 589-6190`
    - Replace with: Client's real phone number
 
 2. **Replace Email**
@@ -162,7 +162,7 @@ This is a **fully functional demo website** for Scott J. Barton's criminal defen
 ## 📞 Contact Information to Update
 
 ### Current (Placeholder):
-- Phone: (502) 555-1234
+- Phone: (502) 589-6190
 - Email: scott@bartonlawoffice.com
 - Location: Louisville, Kentucky (general)
 

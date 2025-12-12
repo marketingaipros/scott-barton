@@ -203,7 +203,7 @@ git push origin main
 ### Before Publishing to a Custom Domain:
 
 1. **Update Phone Number**
-   - Find all instances of: `(502) 555-1234`
+   - Find all instances of: `(502) 589-6190`
    - Replace with: Actual phone number
 
 2. **Update Email Address**

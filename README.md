@@ -141,7 +141,7 @@ This is a modern, high-conversion website designed for Scott J. Barton's crimina
 
 ## 📞 Contact Information (Placeholder)
 
-- **Phone**: (502) 555-1234
+- **Phone**: (502) 589-6190
 - **Email**: scott@bartonlawoffice.com
 - **Location**: Louisville, Kentucky
 
@@ -150,7 +150,7 @@ This is a modern, high-conversion website designed for Scott J. Barton's crimina
 ## 🔧 Customization Guide
 
 ### Updating Contact Information
-1. Search for `(502) 555-1234` and replace with actual phone number
+1. Search for `(502) 589-6190` and replace with actual phone number
 2. Search for `scott@bartonlawoffice.com` and replace with actual email
 3. Update location details in contact section
 
