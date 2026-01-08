@@ -1,3 +1,7 @@
 name = "scott-barton"
 compatibility_date = "2024-09-23"
 assets = { directory = "." }
+
+[[routes]]
+pattern = "scottbartonlaw.com"
+custom_domain = true
